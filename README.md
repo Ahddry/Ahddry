@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Adrien Blair
 
-![Security](https://img.shields.io/badge/Security--Engineer-0078D4?style=flat&logo=github)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-24292F?style=flat&logo=github)
-![GHAS Certified](https://img.shields.io/badge/GitHub%20Advanced%20Security-Certified-blueviolet?logo=github)
-![AWS Certified](https://img.shields.io/badge/AWS-2x%20Certified-f79b26?logo=icloud&logoColor=fff)
-![HashiCorp Vault](https://img.shields.io/badge/HashiCorp-Certified%20Vault%20Associate-000?logo=hashicorp)
+[![Security](https://img.shields.io/badge/Security--Engineer-0078D4?style=flat&logo=github)](#)
+[![DevSecOps](https://img.shields.io/badge/DevSecOps-24292F?style=flat&logo=github)](#)
+[![GHAS Certified](https://img.shields.io/badge/GitHub%20Advanced%20Security-Certified-blueviolet?logo=github)](#)
+[![AWS Certified](https://img.shields.io/badge/AWS-2x%20Certified-f79b26?logo=icloud&logoColor=fff)](#)
+[![HashiCorp Vault](https://img.shields.io/badge/HashiCorp-Certified%20Vault%20Associate-000?logo=hashicorp)](#)
 
 
 ## 🛡️ About Me
@@ -17,7 +17,7 @@ I'm an **Application Security Engineer** dedicated to embedding security seamles
 - **Security as Code:**  
   I advocate for “security as code” practices: codifying security checks, policies, and controls so they are versioned, testable, and repeatable.
 
-On my GitHub profile, you will mostly find tools and scripts I use on a daily basis, my former student projects, and some personal coding projects.
+On my **GitHub** profile, you will mostly find tools and scripts I use on a daily basis, my former student projects, and some personal coding projects.
 
 ## 💼 Experience
 
@@ -33,7 +33,7 @@ On my GitHub profile, you will mostly find tools and scripts I use on a daily ba
 
 | 🛡️ Security & DevSecOps                          | 💻 Languages & Frameworks                     | ☁️ Cloud & Automation     |
 |-------------------|-----------------------|------------------------|
-| SAST (SonarQube, Semgrep, CodeQL, ...)<br>SCA (Dependency Check, Depscan, Dependabot, ...)<br>DAST/IAST (OWASP ZAP, Trivy, ...)<br>GHAS Suite | [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) <br> [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) <br> [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) <br> [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) | [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#) [![Vault](https://img.shields.io/badge/Vault-000?logo=hashicorp&logoColor=white)](#) <br> [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#) [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#) |
+| **SAST** (Checkmarx, SonarQube, Semgrep, CodeQL, ...)<br>**SCA** (Dependency Check, Depscan, Dependabot, ...)<br>**DAST**/**IAST** (OWASP ZAP, Trivy, ...)<br>**GHAS** Suite | [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) <br> [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) <br> [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) <br> [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) | [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#) [![Vault](https://img.shields.io/badge/Vault-000?logo=hashicorp&logoColor=white)](#) <br> [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#) [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#) |
 
 ## 📊 Statistics
 
